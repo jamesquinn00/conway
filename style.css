@@ -1,0 +1,46 @@
+body{
+  color:#006434;
+  background-color: #96c8af;
+}
+
+h1{
+  font-size:50px;
+  font-family:Helvetica,Arial;
+  text-align:center;
+}
+
+li{
+  color:white;
+  width:50%;
+  text-align:center;
+}
+
+.europe{
+  color:black;
+  letter-spacing: 2px;
+}
+
+p{
+  color:#000020;
+  font-size:20px;
+  font-family:cursive,Arial;
+  background-color: white;
+  padding:20px;
+  border-radius:10px;
+}
+
+#par1{
+  color:red;
+}
+
+#par2{
+  color:blue;
+}
+
+#par3{
+  color:blueviolet;
+}
+
+table{
+  background-color: #d0ffd0
+}
